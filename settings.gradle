@@ -1,0 +1,8 @@
+rootProject.name = 'gradle-demo'
+include 'liyue-util'
+include 'liyue-core'
+include 'liyue-base'
+include 'liyue-webapp'
+include 'liyue-mapper'
+include 'liyue-service'
+
